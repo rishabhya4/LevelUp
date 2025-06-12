@@ -1,4 +1,4 @@
-const API_KEY = 'AIzaSyBoyn3fAy0h7T9q9EjTk8GV6CPJWvOpIQM';
+const API_KEY = '';
 
 const FALLBACK_RESPONSES = {
   general: "I'm sorry, I couldn't connect to the AI service. Here's a general response that might help.",
